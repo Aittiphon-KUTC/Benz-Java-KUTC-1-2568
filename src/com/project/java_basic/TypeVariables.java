@@ -15,7 +15,7 @@ public class TypeVariables {
         // Ture แปลว่า จริง
         // False แปลว่า เท็จ
 
-        System.out.println(A+num+"Benz");
+        System.out.println("สวัสดี คุณ " + name);
 
 
 
