@@ -6,9 +6,9 @@ public class TypeVariables {
 //        System.out.println(name);
 
         int number = 7;
-//        System.out.println(number);
+//      System.out.println(number);
 
-//        float total = (float)15.44;
+//      float total = (float)15.44;
         double num = 15.44;
         char A = 'b';
         boolean result = false;
@@ -16,8 +16,6 @@ public class TypeVariables {
         // False แปลว่า เท็จ
 
         System.out.println("สวัสดี คุณ " + name);
-
-
 
     }
 }
