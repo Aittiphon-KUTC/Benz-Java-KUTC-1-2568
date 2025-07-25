@@ -42,5 +42,6 @@ public class MathBasic {
         System.out.println(MB);
 
 
+
     }
 }
